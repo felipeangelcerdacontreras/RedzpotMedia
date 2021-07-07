@@ -1,0 +1,11 @@
+update<br />
+                    multimedia<br />
+                set<br />
+                  mul_orden='1'<br />
+                where<br />
+                  mul_id='9'update<br />
+                    multimedia<br />
+                set<br />
+                  mul_orden='2'<br />
+                where<br />
+                  mul_id='8'<li><video preload='none' muted src = 'spots/multimedia/5/9.MP4' ></video></li><li><video preload='none' muted src = 'spots/multimedia/5/8.MP4' ></video></li>

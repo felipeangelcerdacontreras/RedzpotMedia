@@ -1,0 +1,17 @@
+30-Dic-2016
+//-----Balam-----//
+Modificado Contribuyentes, se creo una tabla nueva para contribuyentes
+Se modifico la parte de apoyos para que se generen por Curp y no clave de elector
+Se modifico la clase apoyos_contribuyentes con la actualizacion para manejarse por curp.
+
+29-Dic-2016
+//------Huereca------//
+*Agregado el modulo de plantillas para reportes
+*Los reportes ya pueden seleccionar su plantilla
+*Las plantillas no suben imagen hasta el proceso de edicion.
+//------Leos------//
+*Agregada Funcion de Subir tabla csv a los Codigos Postales
+*Bug reparado carga de informacion en plantilla de apoyos
+//------Ruben-----//
+*Agregado Reporte por ciudadanos
+*Falta agregar funciones de plantillas

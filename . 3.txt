@@ -1,0 +1,1 @@
+'creando el archivo de texto que después sera ejecutado en el reproductor'
